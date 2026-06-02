@@ -11,4 +11,4 @@ Git is useful because it enables collaboration, history tracking, and safe exper
 
 
 Difference between Git and GitHub?
-Git is useful because it enables collaboration, history tracking, and safe experimentation, and GitHub is a cloud platform built on Git that adds hosting, sharing, and collaboration features.
+Git is useful because it enables collaboration, history tracking, and safe experimentation, and GitHub is a cloud platform built on Git that adds hosting, sharing, and collaboration features.Three git commands learned
