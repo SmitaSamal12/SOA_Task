@@ -1,0 +1,14 @@
+What is Git?
+
+Git is a distributed version control system that tracks changes in code.
+
+
+
+
+Why Git is useful?
+
+Git is useful because it enables collaboration, history tracking, and safe experimentation.
+
+
+Difference between Git and GitHub?
+Git is useful because it enables collaboration, history tracking, and safe experimentation, and GitHub is a cloud platform built on Git that adds hosting, sharing, and collaboration features.

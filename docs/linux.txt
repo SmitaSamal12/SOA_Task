@@ -1,0 +1,9 @@
+What is Linux?
+Linux is a free and open-source operating system based on the Unix operating system. It manages computer hardware and software resources and allows users to run applications, manage files, and perform system tasks through a graphical interface or the command line.
+
+
+
+Three commands learned?
+mkdir
+cd
+pwd
